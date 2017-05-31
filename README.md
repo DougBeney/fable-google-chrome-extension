@@ -1,5 +1,12 @@
 # Fable - The Beautifully Elegant reader mode extension for Google Chrome
 
+**TODO**
+
+- [ ] Organize file structure better
+- [ ] Create a better stylesheet
+- [ ] Add a loading wheel when you enable reader mode
+- [ ] Improve content fetching algorithm  
+
 **Features:**
 
 - Gorgeous, distraction-free reader mode
