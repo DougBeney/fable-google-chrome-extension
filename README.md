@@ -2,7 +2,7 @@
 
 **TODO**
 
-- [ ] Organize file structure better
+- [ ] Better organize file structure
 - [ ] Create a better stylesheet
 - [ ] Add a loading wheel when you enable reader mode
 - [ ] Improve content fetching algorithm  
