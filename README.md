@@ -6,6 +6,8 @@
 - [ ] Create a better stylesheet
 - [ ] Add a loading wheel when you enable reader mode
 - [ ] Improve content fetching algorithm  
+- [ ] Remove elements that are in the way of the reading experience.
+- [ ] Open source knowledgebase of removed elements to improve the reading experience
 
 **Features:**
 
